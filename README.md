@@ -1,5 +1,5 @@
 # pwc-technology-consulting-simulation
-# [Client Type] — ERP Upgrade & SOX Compliance Engagement
+# [Client Type] - ERP Upgrade & SOX Compliance Engagement
 *PwC Technology Consulting Job Simulation (Forage)*
 
 ## Situation
